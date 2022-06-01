@@ -1,0 +1,38 @@
+				MAIN COURSE
+		Chicken Pulao
+		Muton Pulao
+		Beaf Pulao
+		Chicken Biryani
+		Mutton Biryani
+		Beaf Biryani
+		Chicken Karhae
+		Mutton Karhae
+		Beaf Karhae
+		Chicken Kabab
+		Mutton Kabab
+		Beaf Kabab
+		Chicken Broast
+		Chicken Roast
+		Vegitable Rice
+		Raita
+		Plum Sauce
+		Russian Salad
+		Chana Chaat
+		Macronies
+		Simple Salad
+				SWEET DISHES
+		Zrda
+		Feerni
+		Kheer
+		Fruit Chaat
+		Ice-cream
+		Trifle
+				DRINKS
+		Cold Drinks
+		Smoothie
+		Milk Shake
+		Tea
+		Green Tea
+		Pink Tea
+		Coffee
+		Juices

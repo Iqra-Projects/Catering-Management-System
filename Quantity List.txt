@@ -1,0 +1,39 @@
+		MAIN COURSE				QUNANTITY
+		Chicken Pulao			For 500 people
+		Muton Pulao			For 500 people
+		Beaf Pulao			For 500 people
+		Chicken Biryani			For 500 people
+		Mutton Biryani			For 500 people
+		Beaf Biryani			For 500 people
+		Chicken Karhae			For 500 people
+		Mutton Karhae			For 500 people
+		Beaf Karhae			For 500 people
+		Chicken Kabab			For 500 people
+		Mutton Kabab			For 500 people
+		Beaf Kabab			For 500 people
+		Chicken Broast			For 500 people
+		Chicken Roast			For 500 people
+		Vegitable Rice			For 500 people
+		Raita				For 500 people
+		Plum Sauce			For 500 people
+		Russian Salad			For 500 people
+		Chana Chaat			For 500 people
+		Macronies			For 500 people
+		Simple Salad			For 500 people
+		SWEET DISHES			QUANTITY
+		Zrda				For 500 people
+		Feerni				For 500 people
+		Kheer				For 500 people
+		Fruit Chaat			For 500 people
+		Ice-cream			For 500 people
+		Trifle				For 500 people
+		DRINKS				QUANTITY
+		Cold Drinks			For 500 people
+		Smoothie			For 500 people
+		Milk Shake			For 500 people
+		Tea				For 500 people
+		Green Tea			For 500 people
+		Pink Tea			For 500 people
+		Coffee				For 500 people
+		Juices				For 500 people
+Quantity can be increased on the base of requirement
